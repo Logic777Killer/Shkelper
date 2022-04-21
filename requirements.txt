@@ -1,0 +1,12 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+DAWG-Python==0.7.2
+docopt==0.6.2
+idna==3.3
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+requests==2.27.1
+schedule==1.1.0
+urllib3==1.26.9
+v==0.0.0
+vk-api==11.9.7
